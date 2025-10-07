@@ -26,7 +26,7 @@
 - 👯 Looking to collaborate on **DevOps Projects**
 - 💬 Ask me about **React.js, Node.js, MongoDB**
 - 📫 Reach me at **priyanshuk.7374@gmail.com**
-- 👨‍💻 Check out my work at **[Portfolio](https://priyanshukumar.netlify.app)**
+- 👨‍💻 Check out my work at **[Portfolio](https://priyanshukumar.dev)**
 
 <br/>
 
