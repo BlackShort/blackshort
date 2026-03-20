@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./bgimage.jpg" style="max-height:fit-content; width: 100%; height: 350px; object-fit: cover; position: absolute; top: 0; left: 0;" alt="Bg Image" />
+  <img src="./bgimage.jpg" 
+         style="width: 100%; height: auto; max-height: 350px; object-fit: cover;" alt="Bg Image" />
 </p>
 
 
