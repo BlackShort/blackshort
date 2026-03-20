@@ -33,7 +33,7 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,tailwind,mui,react,nextjs,redux,jquery,javascript,typescript,express,nodejs,django,flask,fastapi,graphql,php,python,kotlin,c,cpp,java,solidity,flutter,androidstudio,mysql,mongodb,postgres,redis,firebase,supabase,appwrite,aws,googlecloud,netlify,vercel,docker,kubernetes,jenkins,nginx,tensorflow,pytorch,opencv,sklearn,git,github,postman,markdown,latex,kafka" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,react,nextjs,redux,javascript,typescript,express,nodejs,fastapi,graphql,php,python,kotlin,c,cpp,java,solidity,flutter,androidstudio,mysql,mongodb,postgres,redis,firebase,supabase,aws,googlecloud,netlify,vercel,docker,nginx,git,github,postman,markdown,latex,kafka" alt="Tech Stack" />
 </p>
 
 <br/>
