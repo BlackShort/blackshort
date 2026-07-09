@@ -1,53 +1,57 @@
 <p align="center">
-  <img src="./bgimage.jpg" 
-         style="width: 100%; height: auto; max-height: 350px; object-fit: cover;" alt="Bg Image" />
+  <img src="./bgimage.jpg" style="width: 100%; height: auto; max-height: 150px; object-fit: cover;" alt="Banner" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
+<p align="center">Full-stack developer focused on Java, Spring Boot, React, TypeScript, and Node.js </br> Building end-to-end products from architecture to deployment.
+</p>
 
-<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackShort&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BlackShort?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/BlackShort?label=GitHub%20Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/BlackShort?label=Stars" alt="GitHub Stars" />
 </p>
 
-<h1 align="center">
-  Hi there, I'm Priyanshu Kumar 👋
-</h1>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=A+Passionate+Developer+from+India;Full+Stack+%7C+Cloud+%7C+DevOps+%7C+MLOps;Code.+Create.+Collaborate.;Let's+Connect+and+Build+Together!" alt="Typing SVG" />
+### About
+
+- A recent Computer Science graduate
+- Built [Trip To Himalayas](https://triptohimalayas.in/) and [Code Alpha](https://www.codealpha.app/)
+- Writing occasionally on [Medium](https://medium.com/@priyanshu-kumar)
+- Currently learning System Design
+- Portfolio: [priyanshukumar.dev](https://priyanshukumar.dev)
+
+### Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,nodejs,mysql,mongodb,docker,aws,react,tailwind,prisma" alt="Core Stack" />
 </p>
 
-<br/>
-
-<h2 align="left">✨ About Me</h2>
-
-- 🌱 I’m currently learning **System Design**
-- 👯 Looking to collaborate on **DevOps Projects**
-- 💬 Ask me about **React.js, Node.js, MongoDB**
-- 📫 Reach me at **priyanshuk.7374@gmail.com**
-- 👨‍💻 Check out my work at **[Portfolio](https://priyanshukumar.dev)**
-
-<br/>
-
-<h2 align="left">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,react,nextjs,redux,javascript,typescript,express,nodejs,fastapi,graphql,php,python,kotlin,c,cpp,java,solidity,flutter,androidstudio,mysql,mongodb,postgres,redis,firebase,supabase,aws,googlecloud,netlify,vercel,docker,nginx,git,github,postman,markdown,latex,kafka" alt="Tech Stack" />
+### Connect with Me
+ 
+<p>
+  <a href="mailto:dev.priyanshukumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-kumar7374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/hostmon01"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://priyanshukumar.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDAgMjAgMTAgMTAgMCAwIDAgMC0yMHptNi45MyA2aC0yLjk1YTE1LjY1IDE1LjY1IDAgMCAwLTEuMzgtMy41NkE4LjAzIDguMDMgMCAwIDEgMTguOTMgOHpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41MyAxLjkxIDMuOTZoLTMuODJjLjQzLTEuNDMgMS4wOC0yLjc2IDEuOTEtMy45NnpNNC4yNiAxNGE3Ljk0IDcuOTQgMCAwIDEgMC00aDMuMzhhMTYuNiAxNi42IDAgMCAwIDAgNEg0LjI2em0uODEgMmgyLjk1Yy4zMiAxLjI1Ljc4IDIuNDUgMS4zOCAzLjU2QTguMDMgOC4wMyAwIDAgMSA1LjA3IDE2em0yLjk1LThINS4wN2E4LjAzIDguMDMgMCAwIDEgNC4zMy0zLjU2QTE1LjY1IDE1LjY1IDAgMCAwIDguMDIgOHpNMTIgMTkuOTZhMTUuNjUgMTUuNjUgMCAwIDEtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjYyIDE0SDkuMzhhMTQuNiAxNC42IDAgMCAxIDAtNGg1LjI0YTE0LjYgMTQuNiAwIDAgMSAwIDR6bS4wMiA1LjU2Yy42LTEuMTEgMS4wNi0yLjMxIDEuMzgtMy41NmgyLjk1YTguMDMgOC4wMyAwIDAgMS00LjMzIDMuNTZ6TTE2LjM2IDE0YTE2LjYgMTYuNiAwIDAgMCAwLTRoMy4zOGE3Ljk0IDcuOTQgMCAwIDEgMCA0aC0zLjM4eiIvPjwvc3ZnPg==&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medium.com/@priyanshu-kumar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-<br/>
 
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackShort&show_icons=true&theme=radical&count_private=true" alt="Priyanshu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackShort&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackShort&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### Featured Work
 
-<br/>
+#### [Code Alpha](https://www.codealpha.app/)
+> Proctored technical assessment platform with real-time ML-based monitoring.
 
-## 🌱 Current Learning Goals
-- System Design Fundamentals  
-- DevOps Tools: Kubernetes, Terraform  
-- Exploring Microservices Architecture  
+![architecture](https://img.shields.io/badge/Architecture-microservices-7c3aed?style=flat-square) ![database](https://img.shields.io/badge/Database-MongoDB-2ea44f?style=flat-square) ![deployment](https://img.shields.io/badge/Deployment-AWS-d97706?style=flat-square) ![API Gateway](https://img.shields.io/badge/API_Gateway-NGINX-0d9488?style=flat-square)
+
+`React.js` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `AWS EC2` · `AWS S3` · `NGINX` · `Docker`
+
+#### [Trip To Himalayas](https://triptohimalayas.in/)
+> Travel platform for planning and booking Himalayan trips.
+
+![architecture](https://img.shields.io/badge/Architecture-monolithic-7c3aed?style=flat-square) ![database](https://img.shields.io/badge/Database-Postgres-2ea44f?style=flat-square) ![deployment](https://img.shields.io/badge/Deployment-Vercel-d97706?style=flat-square) ![Security](https://img.shields.io/badge/Security-OAuth-00897b?style=flat-square)
+
+
+`Next.js` · `Postgres` · `TypeScript` · `Node.js` · `Tailwind` · `OAuth`
