@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<p align="center">Full-stack developer focused on Java, Spring Boot, React, TypeScript, and Node.js </br> Building end-to-end products from architecture to deployment.
+<p align="center">Full-stack developer focused on Java, Spring Boot, JavaScript, TypeScript, React, and Node.js </br> Building end-to-end products from architecture to deployment.
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 ### About
 
-- A recent Computer Science graduate
 - Built [Trip To Himalayas](https://triptohimalayas.in/) and [Code Alpha](https://www.codealpha.app/)
 - Writing occasionally on [Medium](https://medium.com/@priyanshu-kumar)
 - Currently learning System Design
@@ -25,7 +24,7 @@
 ### Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,nodejs,mysql,mongodb,docker,aws,react,tailwind,prisma" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,nodejs,prisma,postgresql,mysql,mongodb,redis,docker,aws,react,tailwind" alt="Core Stack" />
 </p>
 
 ### Connect with Me
